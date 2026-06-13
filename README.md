@@ -60,6 +60,8 @@ Once the containers are up and running, you can access the server from your brow
 * **Username:** `jasperadmin`
 * **Password:** `jasperadmin`
 
+![Start JasperReports Server](start_jasper_report_server.png)
+
 ## Persistent Storage
 
 This setup uses Docker Volumes to ensure your reports, users, and database records survive container restarts.
@@ -101,9 +103,6 @@ jasperreports-server-starter/
 └── start_jasper_report_server.png   # Dashboard screenshot
 ```
 
-## Screenshots
-
-![Start JasperReports Server](start_jasper_report_server.png)
 
 ## License
 
