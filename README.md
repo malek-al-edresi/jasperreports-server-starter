@@ -1,7 +1,7 @@
 # JasperReports Server Starter
-
-![Ready JasperReports Server](ready_jasper_report_server.png)
 ![Start JasperReports Server](start_jasper_report_server.png)
+![Ready JasperReports Server](ready_jasper_report_server.png)
+
 
 A lightweight, beginner-friendly starter kit to deploy **JasperReports Server** using Docker Compose in just a few minutes. No long documentation, just results!
 
